@@ -1,0 +1,64 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+}
+body {
+  background-color: rgba(194, 183, 183, 0.096);
+}
+
+.form-container {
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    width: 350px;
+    margin: 120px auto; /* yeh line centre alignment ko sahi karta hai */
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+  
+.form-container h2 {
+  text-align: center;
+  color: #333;
+}
+.form-group {
+  margin-bottom: 15px;
+}
+.form-group label {
+  display: block;
+  margin-bottom: 5px;
+  color: #555;
+}
+.form-group input {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+.form-group input:focus {
+  border-color: #ff0000;
+  outline: none;
+}
+.error {
+  color: #ff0000;
+  font-size: 12px;
+  margin-top: 5px;
+}
+.btn {
+  background: #cc0000;
+  color: #fff;
+  border: none;
+  padding: 10px;
+  border-radius: 4px;
+  cursor: pointer;
+  /* display: flex; */
+  justify-content: center;
+  width: 100%;
+}
+.btn:hover {
+  background: #fc0000;
+}
+

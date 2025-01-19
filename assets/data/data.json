@@ -1,0 +1,368 @@
+{
+  "trendingNow": [
+    {
+      "name": "Jhol",
+      
+      
+      "artist": "By Pakistani artists Maanu & Annural Khalid,release June 2024. Genre: Pop,Language: Urdu.",
+      
+      "image": "assets/image/jhol.jpeg",
+      "url": "assets/image/songs/Jhol.mp3"
+    },
+    {
+      "name": "Tu Hi Haqeeqat",
+      "artist": "By Javed Ali, Irfan, and Shadab Faridi,from movie Tum Mile. Genre: Bollywood Language: Hindi",
+      "image": "assets/image/haqiqat.jpeg",
+      "url": "assets/image/songs/haqiqat.mp3"
+    },
+    {
+      "name": "Departure Lane",
+      "artist": "By Talha Anjum,produced by Umair. Genre: Pop/Rock, Language: English",
+      "image": "assets/image/Departure-Lane.jpeg",
+      "url": "assets/image/songs/Departure Lane.mp3"
+    },
+    {
+      "name": "Sajni",
+      "artist": "By Arijit Singh,from film Laapataa Ladies,Released Feb 13, 2024. Genre: Bollywood. Language: Hindi",
+      "image": "assets/image/sajni.jpeg",
+      "url": "assets/image/songs/sajni.mp3"
+    },
+    {
+      "name": "AANKH",
+      "artist": "By Sunidhi Chauhan and Rosa & Bleza.Released Dec 5, 2024. Genre: Pop, Language: Hindi.",
+      "image": "assets/image/aankh.jpeg",
+      "url": "assets/image/songs/aankh.mp3"
+    },
+    {
+      "name": "Heartbreak Kid",
+      "artist": "By Pakistani artist Talha Anjum, produced by Umair. Genre: Pop/Rock, Language: English",
+      "image": "assets/image/Heartbreak-Kid.jpeg",
+      "url": "assets/image/songs/Heartbreak Kid.mp3"
+    },
+    {
+      "name": "Jo Tum Mere Ho",
+      "artist": "By Indian singer-songwriter Anuv Jain, release Aug 2, 2024. Genre: Indie/Pop, Language: Hindi.",
+      "image": "assets/image/Jo-Tum-Mere-Ho.jpeg",
+      "url": "assets/image/songs/JO TUM MERE HO.mp3"
+    },
+    {
+      "name": "Raanjhan",
+      "artist": "By Parampara Tandon,from the 2024 film Do Patti.Genre: Bollywood, Language: Hindi.",
+      "image": "assets/image/Raanjhan.jpeg",
+      "url": "assets/image/songs/Raanjhan.mp3"
+    },
+    {
+      "name": "Mera Mann",
+      "artist": "By Juss,Released in 2024.Genre: Pop, Language: Hindi.",
+      "image": "assets/image/Mera-Mann.jpeg",
+      "url": "assets/image/songs/Mera Mann.mp3"
+    },
+    {
+      "name": "Ishq",
+      "artist": "Soulful track By Faheem Abdullah.Released in 2024.Genre: Sufi, Language: Urdu",
+      "image": "assets/image/ishq.jpeg",
+      "url": "assets/image/songs/Ishq.mp3"
+    }],
+    "topCharts": [
+{
+"name": "Maan Meri Jaan",
+"artist": "King, Release Date: October 2022. Language: Hindi. Genre: Pop",
+"image": "assets/image/Maan-Meri-Jaan.jpeg",
+"url": "assets/image/songs/Maan Meri Jaan.mp3"
+},
+{
+"name": "Calm Down",
+"artist": "Rema, Selena Gomez, YouTube Views: Over 749 million views as of December 2023. Genre: Afrobeats/Pop, Language: English",
+"image": "assets/image/Calm-Down.jpeg",
+"url": "assets/image/songs/Calm Down.mp3"
+},
+{
+"name": "Kill Bill",
+"artist": "SZA Release Date: December 9, 2022. Peaked at #1 in 2023. Genre: Hip-Hop/Rap, Language: English",
+"image": "assets/image/kill-bill.jpeg",
+"url": "assets/image/songs/Kill Bill.mp3"
+},
+{
+"name": "APT",
+"artist": "ROSÉ, Bruno Mars A soulful collaboration blending pop. Genre: Pop, Language: English",
+"image": "assets/image/APT.jpeg",
+"url": "assets/image/songs/APT.mp3"
+},
+{
+"name": "Levitating",
+"artist": "Dua Lipa, Release Date: October 1, 2020 Peaked at #2 in 2021. Genre: Pop, Language: English",
+"image": "assets/image/Levitating.jpeg",
+"url": "assets/image/songs/Levitating.mp3"
+},
+{
+"name": "Besharam Rang",
+"artist": "Shilpa Rao, Caralisa Monteiro, Vishal-Shekhar, Spotify Popularity Score: 69%. Genre: Bollywood, Language: Hindi",
+"image": "assets/image/Besharam-Rang.jpeg",
+"url": "assets/image/songs/Besharam Rang.mp3"
+},
+{
+"name": "Who",
+"artist": "Jimin A K-pop sensation blending smooth vocals with contemporary beats. Genre: K-Pop, Language: Korean",
+"image": "assets/image/who.jpeg",
+"url": "assets/image/songs/who.mp3"
+},
+{
+"name": "Good Luck, Babe!",
+"artist": "Chappell Roan 80s-inspire track that has gain viral popular on social media platforms. Genre: Pop/Rock, Language: English",
+"image": "assets/image/Good-Luck-Babe.jpeg",
+"url": "assets/image/songs/Good-Luck-Babe.mp3"
+},
+{
+"name": "Eraser",
+"artist": "Ed Sheeran Release Date: March 3, 2017, UK Singles Chart: Peaked at #14. Genre: Pop, Language: English",
+"image": "assets/image/Eraser.jpeg",
+"url": "assets/image/songs/Eraser.mp3"
+},
+{
+"name": "Die-For-You",
+"artist": "The Weeknd Release Date: November 25, 2016 Re-entered charts in 2023, peaking at #6. Genre: R&B/Pop, Language: English",
+"image": "assets/image/Die-For-You.jpeg",
+"url": "assets/image/songs/Die-For-You.mp3"
+}
+],
+   "newReleases": [
+{
+"name": "Bhasad-Macha",
+"artist": "By Raj Shekhar, Vishal Mishra, Mika Singh, Jyotica Tangri in Hindi. Genre: Bollywood, Language: Hindi",
+"image": "assets/image/Bhasad-Macha.jpg",
+"url": "assets/image/songs/Bhasad Macha.mp3"
+},
+{
+"name": "Kya Meri Yaad Aati Hai",
+"artist": "From 'Sky Force' by Irshad Kamil, Tanishk Bagchi, Vishal Mishra. Genre: Bollywood, Language: Hindi",
+"image": "assets/image/Kya-Meri-Yaad-Aati-Hai.jpeg",
+"url": "assets/image/songs/Kya-Meri-Yaad Aati-Hai.mp3"
+},
+{
+"name": "Azaad",
+"artist": "By Amit Trivedi, Amitabh Bhattacharya, Swanand Kirkire. Genre: Bollywood, Language: Hindi",
+"image": "assets/image/azaad.jpg",
+"url": "assets/image/songs/azaad.mp3"
+},
+{
+"name": "Maaye",
+"artist": "Maaye From 'Sky Force' by Manoj Muntashir, Tanishk Bagchi, B Praak. Genre: Bollywood, Language: Hindi",
+"image": "assets/image/Maaye.jpeg",
+"url": "assets/image/songs/Maaye.mp3"
+},
+{
+"name": "Hazaar Baar",
+"artist": "From 'Baby John' by Irshad Kamil, Arijit Singh, Shreya Ghoshal, Thaman S. Genre: Bollywood, Language: Hindi",
+"image": "assets/image/Hazaar-Baar.jpg",
+"url": "assets/image/songs/Hazaar-Baar.mp3"
+},
+{
+  "name": "Fateh",
+  "artist": "By Haroon-Gavin, Yo Yo Honey Singh, Vivek Hariharan, Loire Cotler. Genre: Bollywood, Language: Hindi",
+  "image": "assets/image/Fateh.jpg",
+  "url": "assets/image/songs/fateh.mp3"
+  },
+  {
+  "name": "Pushpa 2 The Rule",
+  "artist": "By Devi Sri Prasad. Genre: Bollywood, Language: Telugu",
+  "image": "assets/image/Pushpa.jpg",
+  "url": "assets/image/songs/Pushpa.mp3"
+  },
+  {
+  "name": "Thehre-Rahen",
+  "artist": "From 'Sikandar Ka Muqaddar' by Jubin Nautiyal, Payal Dev, Manoj Muntashir. Genre: Bollywood, Language: Hindi",
+  "image": "assets/image/Thehre-Rahen.jpg",
+  "url": "assets/image/songs/Thehre-Rahen.mp3"
+  },
+  {
+  "name": "Mere Dholna",
+  "artist": "Mere Dholna 3.0 (Sonu Nigam Version) [From 'Bhool Bhulaiyaa 3'] by Amaal Mallik, Sonu Nigam. Genre: Bollywood, Language: Hindi",
+  "image": "assets/image/Mere-Dholna.jpg",
+  "url": "assets/image/songs/Mere Dholna.mp3"
+  },
+  {
+  "name": "Madhbhari",
+  "artist": "From 'Deva' by Raj Shekhar, Vishal Mishra, Mika Singh, Jyotica Tangri. Genre: Bollywood, Language: Hindi",
+  "image": "assets/image/Madhbhari.jpg",
+  "url": "assets/image/songs/Madhbhari.mp3"
+  }
+  ]
+,"oldSongs": [
+{
+"name": "Aashiq Mujhe Aashiq ",
+"artist": "From the 2001 Bollywood film Aashiq, Alka Yagnik and Roop Kumar Rathod. Genre: Bollywood, Language: Hindi",
+"image": "assets/image/Aashiq.jpeg",
+"url": "assets/image/songs/Aashiq.mp3"
+},
+{
+"name": "Dekha Ek Khwab",
+"artist": "From Movie: Silsila (1981) Kishore Kumar & Lata Mangeshkar. Genre: Bollywood, Language: Hindi",
+"image": "assets/image/Dekha Ek Khwab.jpeg",
+"url": "assets/image/songs/Dekha Ek Khwab.mp3"
+},
+{
+"name": "Mere Piya Gaye Rangoon",
+"artist": "From Movie: Patanga (1949) Shamshad Begum, C. Ramchandra. Genre: Classic Bollywood, Language: Hindi",
+"image": "assets/image/Mere-Piya-Gaye-Rangoon.jpeg",
+"url": "assets/image/songs/Mere-Piya-Gaye-Rangoon.mp3"
+},
+{
+"name": "Kisi ki Muskurahaton Pe Ho",
+"artist": "From Movie: Anari (1959) Singer: Mukesh. Genre: Classic Bollywood, Language: Hindi",
+"image": "assets/image/Kisi ki Muskurahaton Pe Ho.jpeg",
+"url": "assets/image/songs/Kisi ki Muskurahaton Pe Ho.mp3"
+},
+{
+"name": "Mera Joota Hai Japani",
+"artist": "From Movie: Shree 420 (1955) Singer: Mukesh. Genre: Classic Bollywood, Language: Hindi",
+"image": "assets/image/Mera Joota Hai Japani.jpeg",
+"url": "assets/image/songs/Mera Joota Hai Japani.mp3"
+},
+{
+  "name": "Ek Pardesi Mera Dil",
+  "artist": "From the 1950 Bollywood movie Phir Subah Hogi.Singer: Lata Mangeshkar. Genre: Classic Bollywood, Language: Hindi",
+  "image": "assets/image/Ek Pardesi Mera Dil.jpeg",
+  "url": "assets/image/songs/Ek Pardesi Mera Dil.mp3"
+  },
+  {
+  "name": "Maan Mera Ehsan",
+  "artist": "From the 1983 Bollywood film Namak Halaal. The song is sung by Kishore Kumar. Genre: Bollywood, Language: Hindi",
+  "image": "assets/image/aan.jpeg",
+  "url": "assets/image/songs/Maan Mera Ehsan.mp3"
+  },
+  {
+  "name": "Mere Sapno Ki Rani ",
+  "artist": "From 1969 film Aradhana.By Kishore Kumar as the playback singer. Genre: Classic Bollywood, Language: Hindi",
+  "image": "assets/image/Mere Sapno Ki Rani.jpeg",
+  "url": "assets/image/songs/Mere Sapno Ki Rani.mp3"
+  },
+  {
+  "name": "Milo Na Tum To Hum Ghabaraye",
+  "artist": "From the 1973 Bollywood film Rakhwala. The song is sung by the legendary Kishore Kumar. Genre: Bollywood, Language: Hindi",
+  "image": "assets/image/Milo Na Tum To Hum Ghabaraye.jpg",
+  "url": "assets/image/songs/Milo Na Tum To Hum Ghabraye.mp3"
+  },
+  {
+    "name": "Awara Hoon",
+    "artist": "From the 1951 Bollywood film Awaara. Sung by legendary Mukesh. Genre: Classic Bollywood, Language: Hindi",
+    "image": "assets/image/Awara Hoon.jpeg",
+    "url": "assets/image/songs/Awara Hoon.mp3"
+    }
+    ]
+    ,
+    "topArtist":[
+          {
+            "name": "Arijit Singh",
+            "image": "assets/image/Arijit Singh.webp"
+          },
+          {
+            "name": "Badshah",
+            "image": "assets/image/Badshah.jpeg"
+          },
+          {
+            "name": "Neha Kakkar",
+            "image": "assets/image/neha.jpeg"
+          },
+          {
+            "name": "Atif Aslam",
+            "image": "assets/image/Atif.jpeg"
+          },
+          {
+            "name": "Sunidhi Chauhan",
+            "image": "assets/image/Sunidhi.webp"
+          },
+          {
+            "name": "Yo Yo Honey",
+            "image": "assets/image/Yo Yo Honey.jpeg"
+          },
+          {
+            "name": "Lata Mangeshkar",
+            "image": "assets/image/Lata Mangeshkar.jpeg"
+          },
+          {
+            "name": "Mohammed Rafi",
+            "image": "assets/image/Mohammed.jpeg"
+          },
+          {
+            "name": "Rahat Fateh",
+            "image": "assets/image/Rahat Fateh.jpeg"
+          },
+          {
+            "name": "Mika Singh",
+            "image": "assets/image/Mika.jpeg"
+          },
+          {
+            "name": "Diljit Dosanjh",
+            "image": "assets/image/Diljit1.webp"
+          },
+          {
+            "name": "Akhil",
+            "image": "assets/image/Akhil.jpeg"
+          }
+        ],
+    "topSearchedsongs": [
+{
+"name": "Not Like Us",
+"artist": "Kendrick Lamar. Genre: Hip-Hop/Rap. Language: English. A powerful diss track showcasing Kendrick Lamar's lyrical prowess",
+"image": "assets/image/Not Like Us.jpeg",
+"url": "assets/image/songs/Not Like Us.mp3"
+},
+{
+"name": "We Can't Be Friends",
+"artist": "Ariana Grande. Genre: Pop. Language: English. Ariana's soulful ballad explores heartbreak and unreciprocated love.",
+"image": "assets/image/We Can't Be Friends.jpeg",
+"url": "assets/image/songs/We Can't Be Friends.mp3"
+},
+{
+"name": "Texas Hold 'Em",
+"artist": "Various Artists. Genre: R&B/Soul. Language: English. A modern empowerment anthem with soulful vocals and rich instrumentation.",
+"image": "assets/image/Texas-Hold-Em.jpeg",
+"url": "assets/image/songs/Texas Hold 'Em.mp3"
+},
+{
+"name": "Like That",
+"artist": "Lil Uzi Vert, Lil Durk. Genre: Trap/Hip-Hop. Language: English. This high-energy features bass-heavy production & dynamic verses.",
+"image": "assets/image/Like That.jpeg",
+"url": "assets/image/songs/Like That.mp3"
+},
+{
+"name": "Training Season",
+"artist": "Various Artists. Genre: Dance-Pop. Language: English.",
+"image": "assets/image/Training Season.jpeg",
+"url": "assets/image/songs/Training Season.mp3"
+
+},
+{
+"name": "Saturn SZA",
+"artist": "SZA. Genre: Alternative R&B. Language: English. Her hauntingly beautiful voice gives the track a unique depth.",
+"image": "assets/image/saturn.jpeg",
+"url": "assets/image/songs/Saturn.mp3"
+},
+{
+"name": "End of Beginning",
+"artist": "Various Artists. Genre: Indie/Alternative. Language: English. A dreamy indie track blending experimental soundscapes.",
+"image": "assets/image/End of Beginning.jpeg",
+"url": "assets/image/songs/End of Beginning.mp3"
+},
+{
+"name": "Fri(end)s",
+"artist": "BTS. Genre: K-Pop/Ballad. Language: Korean. A soft, emotional ballad that reflects on the bittersweet complexities of friendship.",
+"image": "assets/image/fri.jpeg",
+"url": "assets/image/songs/fri.mp3"
+},
+{
+"name": "Too Sweet",
+"artist": "Various Artists. Genre: Folk/Soul. Language: English. A poetic exploration of love and vulnerability.",
+"image": "assets/image/Too Sweet.jpeg",
+"url": "assets/image/songs/Too Sweet.mp3"
+},
+{
+"name": "Cinderella",
+"artist": "Various Artists. Genre: Trap/Hip-Hop. Language: English. A vibrant and stylish collaboration with futuristic beats and catchy hooks.",
+"image": "assets/image/Cinderella.jpeg",
+"url": "assets/image/songs/Cinderella.mp3"
+}
+    ]
+  
+
+}
