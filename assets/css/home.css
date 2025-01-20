@@ -85,8 +85,85 @@ body{
     
   
   }
-
-
+  h2 {
+    /* text-align: center; */
+    font-size: 40px;
+    margin-left: 80px;
+    font-weight: 600;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-transform: capitalize;
+    text-shadow: 3px 3px 5px rgba(156, 89, 89, 0.486);
+  }
+  #recommended-section {
+    margin: 40px 0;
+    display: flex;
+    justify-content: center;
+  }
+  
+  #recommended-section h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    margin-top: 80px;
+  }
+  
+  .column {
+    width: 28%;
+    margin: 15px;
+    border:1px solid #696767;
+    border-radius: 8px;
+    text-align: center;
+    padding: 12px;
+    box-shadow: 0 0 12px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease-in-out;
+  padding-top: 40px;
+  }
+  .column:hover {
+    box-shadow: 0 0 25px rgba(0, 0, 0, 0.3);
+  }
+  
+  .song-info {
+    margin-top: 20px;
+  }
+  
+  .song-info h5 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .song-info p {
+    font-size: 16px;
+    color: #666;
+  }
+  
+  
+ 
+  .column img {
+    width: 200px;
+    border: #000000;
+    box-shadow: 8px grey;
+    height: 200px;
+    border-radius: 50%;
+    transition: transform 0.5s ease-in-out;
+  }
+  
+  .column img.rotate {
+    animation: rotate 10s linear infinite;
+  }
+  
+  @keyframes rotate {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+  
+ 
+  
 
 
   

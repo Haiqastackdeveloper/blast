@@ -1,0 +1,25 @@
+{
+  
+  "recommendedForYou": [
+    {
+      "image": "assets/image/Mere-Dholna.jpg",
+      "name": "qwert",
+      "artist": "Artist 1",
+      "url": "assets/image/songs/Mere Dholna.mp3"
+    },
+    {
+      "image": "assets/image/Mere-Dholna.jpg",
+      "name": "qwert",
+      "artist": "Artist 1",
+      "url": "assets/image/songs/Mere Dholna.mp3"
+    },
+    {
+      "image": "assets/image/Mere-Dholna.jpg",
+      "name": "qwert",
+      "artist": "Artist 1",
+      "url": "assets/image/songs/Mere Dholna.mp3"
+    }
+
+  ]
+
+}
