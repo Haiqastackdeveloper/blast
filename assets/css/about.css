@@ -23,16 +23,17 @@ nav .nav-item a {
 
 nav .nav-item a i {
   margin-right: 5px;
-  padding-left: 280px;
+  /* padding-left: 280px; */
+margin-left: 280px;
 }
 
  
  nav {
   background-color: black;
   color: #fff;
-  z-index: 5;
   height: 90px;
   padding: 1em;
+  z-index: 5;
   text-align: center;
 }
 
@@ -54,8 +55,9 @@ nav .nav-item a {
   font-size: 16px;
 }
 
-nav a:hover {
-  color: #ccc;
+nav .nav-item a:hover{
+  color: rgb(165, 159, 159);
+  
 }
 
 
