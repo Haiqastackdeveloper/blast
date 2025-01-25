@@ -1,0 +1,40 @@
+[
+    {
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "thumbnail": "assets/image/song1.jpg",
+      "audio": "assets/image/songs/Mere Dholna.mp3"
+    },
+    {
+      "title": "Shape of You",
+      "artist": "Ed Sheeran",
+      "thumbnail": "assets/image/Arijit Singh.webp",
+      "audio": "assets/audio/song2.mp3"
+    },
+    {
+      "title": "Levitating",
+      "artist": "Dua Lipa",
+      "thumbnail": "assets/image/song3.jpg",
+      "audio": "assets/audio/song3.mp3"
+    },
+
+{
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "thumbnail": "assets/image/song1.jpg",
+      "audio": "assets/audio/song1.mp3"
+    },
+    {
+      "title": "Shape of You",
+      "artist": "Ed Sheeran",
+      "thumbnail": "assets/image/song2.jpg",
+      "audio": "assets/audio/song2.mp3"
+    },
+    {
+      "title": "Levitating",
+      "artist": "Dua Lipa",
+      "thumbnail": "assets/image/song3.jpg",
+      "audio": "assets/audio/song3.mp3"
+    }
+  ]
+  

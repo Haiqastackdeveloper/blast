@@ -1,0 +1,255 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+  }
+body{
+    
+    background-color: #121212;
+    color: #ffffff;
+}
+.container-fluid  span{
+    color: white;
+    text-decoration: none;
+    /* padding-top: 0px; */
+    font-size: 23px;
+}
+
+  nav .nav-item a {
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    
+  }
+  
+  nav .nav-item a i {
+    margin-right: 5px;
+    /* padding-left: 280px; */
+  /* margin-left: 280px; */
+  }
+  
+ .register {
+    margin-left: 280px;
+    float: right;
+  }
+
+   nav {
+    background-color: black;
+    color: #fff;
+    height: 90px;
+    padding: 1em;
+    z-index: 5;
+    text-align: center;
+  }
+  img{
+    width: 30px;
+    height: 30px;
+    border-radius: none;
+  }
+  nav ul {
+    list-style: none;
+    margin-left: 40px;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  nav li {
+    margin-right: 20px;
+  }
+  
+  nav .nav-item a {
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+  }
+ 
+  nav .nav-item a:hover{
+    color: rgb(165, 159, 159);
+    
+  }
+ 
+
+  .navbar-toggler {
+    border: none;
+  }
+  .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28255, 255, 255, 1%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+
+  @media (max-width: 992px) {
+    .navbar-expand-lg .navbar-collapse {
+      position: absolute;
+      top: 90px;
+      left: 0;
+      width: 100%;
+      background-color: #000;
+      text-align: left;
+      padding: 20px;
+    }
+    nav .nav-item a i{
+      padding-left: 0;
+    }
+  }
+ /* Container and Row Adjustments */
+.category {
+  margin: 10px auto;
+  padding: 15px;
+  max-width: 1200px; /* Restrict maximum width */
+}
+
+/* Card Styling */
+.card {
+  background-color: #222; /* Darker background for cards */
+  border: none;
+  border-radius: 8px;
+  overflow: hidden;
+  height: 100%; /* Ensure consistent height */
+}
+
+.card-img-top {
+  height: 180px; /* Uniform image size */
+  object-fit: cover;
+}
+
+.card-body {
+  text-align: center;
+}
+
+.card-title {
+  color: #ff4757;
+  font-size: 1.2rem;
+  margin-bottom: 5px;
+}
+
+.card-text {
+  color: #ddd;
+  font-size: 0.9rem;
+}
+
+.btn-danger {
+  background-color: #ff4757;
+  border: none;
+  margin-top: 10px;
+}
+
+.btn-danger:hover {
+  background-color: #ff6b81;
+}
+
+/* Player Line Styling */
+.player-line {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: #333;
+  color: #fff;
+  display: flex; /* Flexbox for horizontal alignment */
+  align-items: center;
+  justify-content: space-between; /* Distribute space evenly between items */
+  padding: 10px 20px;
+  box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.5);
+  z-index: 1000;
+  display: none;
+}
+
+/* Player Line Styling */
+.player-line {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: #333;
+  color: #fff;
+  display: flex; /* Flexbox for horizontal alignment */
+  align-items: center;
+  justify-content: space-between; /* Distribute space evenly between items */
+  padding: 10px 20px;
+  box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.5);
+  z-index: 1000;
+}
+
+/* Player Controls */
+.player-controls {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+#seekBar {
+  width: 200px;
+  appearance: none;
+  height: 5px;
+  background: #555;
+  border-radius: 5px;
+  outline: none;
+  cursor: pointer;
+}
+
+#seekBar::-webkit-slider-thumb {
+  appearance: none;
+  width: 15px;
+  height: 15px;
+  background: #ff4757;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+
+
+
+/* Play/Pause Button */
+#playPauseBtn {
+  background: none;
+  border: none;
+  color: #fff;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+
+#playPauseBtn:hover {
+  color: #ff4757;
+}
+.volume-control {
+  display: flex;
+  align-items: center;
+  /* background-color: red; */
+
+  gap: 5px;
+}
+.volume-control i {
+  color: #fff;
+  font-size: 1.2rem;
+}
+#volumeControl {
+  width: 100px;
+  appearance: none;
+  height: 5px;
+  background: #555;
+  border-radius: 5px;
+  outline: none;
+  cursor: pointer;
+}
+#volumeControl::-webkit-slider-thumb {
+  appearance: none;
+  width: 15px;
+  height: 15px;
+  background: #ff4757;
+  border-radius: 50%;
+  cursor: pointer;
+}
+#currentSongTitle {
+  color: #ff4757;
+  text-align: center;
+  flex-grow: 1;
+}
+/* #currentSongThumbnail {
+  width: 40px; 
+  height: 40px;
+  border-radius: 50%;
+  margin-right: 10px; 
+} */
